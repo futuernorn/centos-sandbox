@@ -1,5 +1,5 @@
 # Apache Setup
-(Configuration)[docs/apache_setup.md]
+[Configuration](docs/apache_setup.md)
 http://www.thegeekstuff.com/2012/05/install-apache-2-on-centos-6/
 yum install gcc
 yum install openssl-devel
@@ -65,4 +65,4 @@ http://stackoverflow.com/a/9436971
 
 # Bind Server
 https://www.digitalocean.com/community/tutorials/how-to-install-the-bind-dns-server-on-centos-6
-(Configuration)[docs/bind_setup.md]
+[Configuration](docs/bind_setup.md)
